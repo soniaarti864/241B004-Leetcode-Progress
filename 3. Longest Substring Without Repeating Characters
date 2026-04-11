@@ -1,0 +1,10 @@
+class Solution(object):
+    def lengthOfLongestSubstring(self, s):
+        visited=[]
+        count=0
+        for i in range(len(s)):
+            if s[i] in visited:
+                visited=visited[visited.index(s[i])+1:]
+            visited.append(s[i])
+            count=max(count,len(visited))
+        return count
