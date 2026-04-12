@@ -2,31 +2,31 @@
 
 | S.No | Problem Name                                      | Submitted Date | Solution |
 |------|--------------------------------------------------|----------------|----------|
-| 1  | Two Sum | 26 Jan 26 | [View](Two_Sum.ipynb) |
-| 2  | Add Two Numbers | 27 Jan 26 | [View](Add_Two_Numbers.ipynb) |
-| 3  | Palindrome Number | 27 Jan 26 | [View](palindrome_number.ipynb) |
-| 4  | Longest Substring Without Repeating Characters | 28 Jan 26 | [View](longest_substring_without_repeating_characters.ipynb) |
-| 5  | Roman to Integer | 28 Jan 26 | [View](roman_to_integer.ipynb) |
-| 6  | Longest Common Prefix | 29 Jan 26 | [View](longest_common_prefix.ipynb) |
-| 7  | Reverse Integer | 29 Jan 26 | [View](reverse_integer.ipynb) |
-| 8  | Remove Duplicates from Sorted Array | 30 Jan 26 | [View](remove_duplicates_from_sorted_array.ipynb) |
-| 9  | 3Sum | 30 Jan 26 | [View](three_sum.ipynb) |
-| 10 | Remove Element | 31 Jan 26 | [View](remove_element.ipynb) |
-| 11 | Letter Combinations of Phone Number | 31 Jan 26 | [View](letter_combinations_of_phone_number.ipynb) |
-| 12 | Longest Palindromic Substring | 1 Feb 26 | [View](longest_palindromic_substring.ipynb) |
-| 13 | Find First and Last Position | 1 Feb 26 | [View](find_first_and_last_position.ipynb) |
-| 14 | Add Binary | 2 Feb 26 | [View](add_binary.ipynb) |
-| 15 | Combinations | 2 Feb 26 | [View](combinations.ipynb) |
-| 16 | Word Search | 3 Feb 26 | [View](word_search.ipynb) |
-| 17 | Triangle | 3 Feb 26 | [View](triangle.ipynb) |
-| 18 | Permutations | 4 Feb 26 | [View](permutations.ipynb) |
-| 19 | Search Insert Position | 5 Feb 26 | [View](search_insert_position.ipynb) |
-| 20 | Swap Nodes in Pairs | 6 Feb 26 | [View](swap_nodes_in_pairs.ipynb) |
-| 21 | Valid Parentheses | 7 Feb 26 | [View](valid_parentheses.ipynb) |
-| 22 | Find First Occurrence in String | 8 Feb 26 | [View](find_first_occurrence_in_string.ipynb) |
-| 23 | Length of Last Word | 9 Feb 26 | [View](length_of_last_word.ipynb) |
-| 24 | Pascal’s Triangle | 10 Feb 26 | [View](pascals_triangle.ipynb) |
-| 25 | Pascal’s Triangle II | 11 Feb 26 | [View](pascals_triangle_ii.ipynb) |
+| 1  | Two Sum | 26 Jan 26 |
+| 2  | Add Two Numbers | 27 Jan 26 |
+| 3  | Palindrome Number | 27 Jan 26 | 
+| 4  | Longest Substring Without Repeating Characters | 28 Jan 26 |
+| 5  | Roman to Integer | 28 Jan 26 | 
+| 6  | Longest Common Prefix | 29 Jan 26 | 
+| 7  | Reverse Integer | 29 Jan 26 |
+| 8  | Remove Duplicates from Sorted Array | 30 Jan 26 |
+| 9  | 3Sum | 30 Jan 26 | 
+| 10 | Remove Element | 31 Jan 26 |
+| 11 | Letter Combinations of Phone Number | 31 Jan 26 | 
+| 12 | Longest Palindromic Substring | 1 Feb 26 | 
+| 13 | Find First and Last Position | 1 Feb 26 | 
+| 14 | Add Binary | 2 Feb 26 | 
+| 15 | Combinations | 2 Feb 26 | 
+| 16 | Word Search | 3 Feb 26 | 
+| 17 | Triangle | 3 Feb 26 | 
+| 18 | Permutations | 4 Feb 26 | 
+| 19 | Search Insert Position | 5 Feb 26 | 
+| 20 | Swap Nodes in Pairs | 6 Feb 26 | 
+| 21 | Valid Parentheses | 7 Feb 26 | 
+| 22 | Find First Occurrence in String | 8 Feb 26 | 
+| 23 | Length of Last Word | 9 Feb 26 | 
+| 24 | Pascal’s Triangle | 10 Feb 26 | 
+| 25 | Pascal’s Triangle II | 11 Feb 26 | 
 | 26 | Sqrt(x) | 12 Feb 26 | [View](sqrt_x.ipynb) |
 | 27 | Single Number | 13 Feb 26 | [View](single_number.ipynb) |
 | 28 | Valid Palindrome | 14 Feb 26 | [View](valid_palindrome.ipynb) |
