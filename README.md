@@ -2,8 +2,8 @@
 
 | S.No | Problem Name                                      | Submitted Date | Solution |
 |------|--------------------------------------------------|----------------|----------|
-| 1  | Two Sum | 26 Jan 26 | [View](two_sum.ipynb) |
-| 2  | Add Two Numbers | 27 Jan 26 | [View](add_two_numbers.ipynb) |
+| 1  | Two Sum | 26 Jan 26 | [View](Two_Sum.ipynb) |
+| 2  | Add Two Numbers | 27 Jan 26 | [View](Add_Two_Numbers.ipynb) |
 | 3  | Palindrome Number | 27 Jan 26 | [View](palindrome_number.ipynb) |
 | 4  | Longest Substring Without Repeating Characters | 28 Jan 26 | [View](longest_substring_without_repeating_characters.ipynb) |
 | 5  | Roman to Integer | 28 Jan 26 | [View](roman_to_integer.ipynb) |
