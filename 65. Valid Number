@@ -1,0 +1,25 @@
+class Solution(object):
+    def isNumber(self, s):
+        s=s.strip()
+        num=False
+        dot=False
+        exp=False
+        for i in range(len(s)):
+            if s[i].isdigit():
+                num=True
+            elif s[i] in ['+','-']:
+                if i!=0 and s[i-1] not in ['e','E']:
+                    return False
+            elif s[i]=='.':
+                if dot or exp:
+                    return False
+                dot=True
+            elif s[i] in ['e','E']:
+                if exp or not num:
+                    return False
+                exp=True
+                num=False
+            else:
+                return False
+        return num
+        
