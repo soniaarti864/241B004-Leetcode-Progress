@@ -1,7 +1,7 @@
 # 💻 LeetCode Practice
 
-| S.No | Problem Name                                      | Submitted Date | Solution |
-|------|--------------------------------------------------|----------------|----------|
+| S.No | Problem Name                                      | Submitted Date |
+|------|--------------------------------------------------|----------------|
 | 1  | Two Sum | 26 Jan 26 |
 | 2  | Add Two Numbers | 27 Jan 26 |
 | 3  | Palindrome Number | 27 Jan 26 | 
