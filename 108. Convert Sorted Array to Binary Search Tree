@@ -1,0 +1,11 @@
+class Solution(object):
+    def sortedArrayToBST(self, nums):
+        def build(arr):
+            if not arr:
+                return None
+            mid=len(arr)//2
+            node=TreeNode(arr[mid])
+            node.left=build(arr[:mid])
+            node.right=build(arr[mid+1:])
+            return node
+        return build(nums)
