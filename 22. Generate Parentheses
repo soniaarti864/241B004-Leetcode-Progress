@@ -1,0 +1,20 @@
+from collections import deque
+class Solution(object):
+    def generateParenthesis(self, n):
+        result=[]
+        queue=deque()
+        queue.append(("",0,0))
+        while queue:
+            current,open_count,close_count=queue.popleft()
+            if len(current)==2*n:
+                result.append(current)
+                continue
+            if open_count<n:
+                queue.append((current+"(",open_count+1,close_count))
+            if close_count<open_count:
+                queue.append((current+")",open_count,close_count+1))
+        return result
+
+
+        
+        
