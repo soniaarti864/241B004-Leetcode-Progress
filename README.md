@@ -61,3 +61,12 @@
 | 57 | Construct Binary Tree (Inorder + Postorder) | 24 Mar 26 | 
 | 58 | Simplify Path | 25 Mar 26 | 
 | 59 | Sort List | 26 Mar 26 |
+| 60 |Remove Nth Node From End of List | 19 Apr 26 |
+| 61 | Rotate Image |20 Apr 26 |
+| 62 |Edit Distance | 21 Apr 26 |
+| 63 |Merge Sorted Array  | 22 Apr 26 |
+| 64 |Subsets | 23 Apr 26 |
+| 65 |Unique Binary Search Trees | 24 Apr 26 |
+| 66 |Restore IP Addresses | 25 Apr 26 |
+
+
