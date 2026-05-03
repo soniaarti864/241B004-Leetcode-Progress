@@ -68,5 +68,17 @@
 | 64 |Subsets | 23 Apr 26 |
 | 65 |Unique Binary Search Trees | 24 Apr 26 |
 | 66 |Restore IP Addresses | 25 Apr 26 |
+| 67 |Path Sum | 26 Apr 26 |
+| 68 |Integer to Roman | 27 Apr 26 |
+| 69 |Sum Root to Leaf Numbers | 28 Apr 26 |
+| 70 |Linked List Cycle | 29 Apr 26 |
+| 71 | Search in Rotated Sorted Array | 30 Apr 26 |
+| 72 |Merge Intervals | 30 Apr 26 |
+| 73 |Combination Sum | 30 Apr 26 |
+| 74 |Maximum Subarray| 1 May 26 |
+| 75 |Validate Binary Search Tree | 1 May 26 |
+| 76 |Recover Binary Search Tree | 1 May 26 |
+| 77 |Unique Binary Search Trees II | 2 May 26 |
+| 78 |Binary Tree Level Order Traversal| 2 May 26 |
 
 
