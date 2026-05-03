@@ -80,11 +80,11 @@
 | 76 |Recover Binary Search Tree | 1 May 26 |
 | 77 |Unique Binary Search Trees II | 2 May 26 |
 | 78 |Binary Tree Level Order Traversal| 2 May 26 |
-| 79 |Combination Sum | 3 May 26 |
-| 80 |Combination Sum | 3 May 26 |
-| 81 |Combination Sum | 3May 26 |
-| 82 |Combination Sum | 4 May 26 |
-| 83 |Combination Sum | 4 May 26 |
+| 79 |Unique Paths | 3 May 26 |
+| 80 |Unique Paths II | 3 May 26 |
+| 81 |Count and Say | 3May 26 |
+| 82 |Reorder List | 4 May 26 |
+| 83 |Word Break | 4 May 26 |
 
 
 
